@@ -1,0 +1,7 @@
+C:\Users\NITRO 16\source\repos\repositry_project1\repositry_project1\obj\Debug\net8.0\repositry_project1.csproj.AssemblyReference.cache
+C:\Users\NITRO 16\source\repos\repositry_project1\repositry_project1\obj\Debug\net8.0\repositry_project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 16\source\repos\repositry_project1\repositry_project1\obj\Debug\net8.0\repositry_project1.AssemblyInfoInputs.cache
+C:\Users\NITRO 16\source\repos\repositry_project1\repositry_project1\obj\Debug\net8.0\repositry_project1.AssemblyInfo.cs
+C:\Users\NITRO 16\source\repos\repositry_project1\repositry_project1\obj\Debug\net8.0\repositry_project1.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 16\source\repos\repositry_project1\repositry_project1\obj\Debug\net8.0\repositry_project1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NITRO 16\source\repos\repositry_project1\repositry_project1\obj\Debug\net8.0\repositry_project1.MvcApplicationPartsAssemblyInfo.cache

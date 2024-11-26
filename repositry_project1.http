@@ -1,0 +1,6 @@
+@repositry_project1_HostAddress = http://localhost:5203
+
+GET {{repositry_project1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
